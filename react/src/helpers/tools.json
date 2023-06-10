@@ -1,0 +1,415 @@
+[
+    {
+        "title": "Blog content",
+        "tools": [
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#71e128",
+                "alt_name": "article-composer",
+                "title": "Article Composer",
+                "description": "Create a comprehensive, SEO-friendly blog post from a title and outline using AI technology."
+            },
+            {
+                "icon_name": "majesticons:repeat-circle-line",
+                "icon_color": "#71e128",
+                "alt_name": "content-rewrite",
+                "title": "Content Rewrite",
+                "description": "Revolutionize content rewriting with the world's smartest AI rewriter."
+            },
+            {
+                "icon_name": "fluent:text-paragraph-direction-20-filled",
+                "icon_color": "#71e128",
+                "alt_name": "paragraph-writer-for-blogs",
+                "title": "Paragraph Writer for Blogs",
+                "description": "Generate human-like paragraphs for your blog post based on subheadings (h2, h3, h4, etc.)."
+            },
+            {
+                "icon_name": "icon-park-twotone:paragraph-rectangle",
+                "icon_color": "#71e128",
+                "alt_name": "paragraph-creator",
+                "title": "Paragraph Creator",
+                "description": "Generate paragraphs about any topic and tone of voice with the inclusion of a keyword."
+            },
+            {
+                "icon_name": "uil:window-section",
+                "icon_color": "#71e128",
+                "alt_name": "blog-section-author",
+                "title": "Blog Section Author",
+                "description": "Write multiple paragraphs for a section of your blog post based on a subheading."
+            },
+            {
+                "icon_name": "carbon:blog",
+                "icon_color": "#71e128",
+                "alt_name": "engaging-blog-titles",
+                "title": "Engaging Blog Titles",
+                "description": "Create eye-catching blog titles that captivate readers with this tool."
+            },
+            {
+                "icon_name": "fluent:design-ideas-20-filled",
+                "icon_color": "#71e128",
+                "alt_name": "blog-inspiration-generator",
+                "title": "Blog Inspiration Generator",
+                "description": "Unlock endless writing potential with this tool that generates creative ideas for your next blog post."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#71e128",
+                "alt_name": "listicles-blog-titles",
+                "title": "Listicles Blog Titles",
+                "description": "Create alluring listicle headlines with ease using this automated tool."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#71e128",
+                "alt_name": "blog-introduction-maker",
+                "title": "Blog Introduction Maker",
+                "description": "Write captivating introductions for your blog post to entice readers to keep reading."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#71e128",
+                "alt_name": "blog-outline-tool",
+                "title": "Blog Outline Tool",
+                "description": "Effortlessly create the general structure of your next blog post with this outline tool."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#71e128",
+                "alt_name": "blog-conclusion-writer",
+                "title": "Blog Conclusion Writer",
+                "description": "End your blog post with a memorable conclusion paragraph using this tool."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#71e128",
+                "alt_name": "talk-points-generator",
+                "title": "Talk Points Generator",
+                "description": "Create concise, informative talking points for each subheading in your blog post."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#71e128",
+                "alt_name": "pros-cons-maker",
+                "title": "Pros & Cons Maker",
+                "description": "Generate a comprehensive list of pros and cons for a product, service, or website for your blog post."
+            }
+        ]
+    },
+    {
+        "title": "Website Copy & SEO",
+        "tools": [
+            {
+                "icon_name": "icon-park-outline:add-web",
+                "icon_color": "#666cff",
+                "alt_name": "web-page-headlines",
+                "title": "Web Page Headlines",
+                "description": "Craft captivating headlines for your landing page or any web page."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#666cff",
+                "alt_name": "subtitles-for-websites",
+                "title": "Subtitles for Websites",
+                "description": "Compose a secondary headline that expands on the main headline."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#666cff",
+                "alt_name": "meta-description-creation",
+                "title": "Meta Description Creation",
+                "description": "Create SEO-friendly meta descriptions based on a given description."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#666cff",
+                "alt_name": "frequently-asked-questions",
+                "title": "Frequently Asked Questions",
+                "description": "Generate a list of frequently asked questions based on your product description."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#666cff",
+                "alt_name": "answers-for-faqs",
+                "title": "Answers for FAQs",
+                "description": "Generate imaginative answers to frequently asked questions about your business or website."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#666cff",
+                "alt_name": "pain-stimulate-solution",
+                "title": "Pain-Stimulate-Solution",
+                "description": "Generate a copywriting formula that is one of the most effective for your business."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#666cff",
+                "alt_name": "user-testimonials-reviews",
+                "title": "User Testimonials / Reviews",
+                "description": "Enhance your website's credibility by generating user testimonials and reviews."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#666cff",
+                "alt_name": "how-your-product-works",
+                "title": "How It Works",
+                "description": "Detail how your product or business operates in 3 easy steps."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#666cff",
+                "alt_name": "our-story",
+                "title": "About Us",
+                "description": "Generate original and imaginative content to represent your business on your about us page."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#666cff",
+                "alt_name": "call-to-action-phrases",
+                "title": "Call to Action Phrases",
+                "description": "Generate call to action lines or hooks for your visitors to take action regarding your business."
+            }
+        ]
+    },
+    {
+        "title": "Social Media & Ads",
+        "tools": [
+            {
+                "icon_name": "ion:social-dribbble-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "business-social-media-post",
+                "title": "Business Social Media Post",
+                "description": "Generate an engaging and attention-grabbing post for your business to be published on social media."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "personal-social-media-update",
+                "title": "Personal Social Media Update",
+                "description": "Create a personalized social media post to share with your friends and followers."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "instagram-post-captions",
+                "title": "Instagram Post Captions",
+                "description": "Add a touch of personality to your Instagram posts with creative captions."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "instagram-hashtag-recommendations",
+                "title": "Instagram Hashtag Recommendations",
+                "description": "Get recommendations for hashtags to help increase the visibility of your Instagram posts."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "facebook-ad-content",
+                "title": "Facebook Ad Content",
+                "description": "Create compelling and engaging Facebook Ad content that drives conversions."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "facebook-ad-headline-writing",
+                "title": "Facebook Ad Headline Writing",
+                "description": "Write attention-grabbing headlines for your Facebook Ads to make them stand out."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "google-ads-headline-creation",
+                "title": "Google Ads Headline Creation",
+                "description": "Generate eye-catching 30-character headlines for your Google Ads to increase engagement and conversions."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "google-ads-description-writing",
+                "title": "Google Ads Description Writing",
+                "description": "Write an impactful Google Ads description to drive traffic and generate leads."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "youtube-video-titles",
+                "title": "YouTube Video Titles",
+                "description": "Craft compelling video titles for your YouTube channel that grab people's attention."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "youtube-video-descriptions",
+                "title": "YouTube Video Descriptions",
+                "description": "Write eye-catching and engaging descriptions for your YouTube videos to boost views."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "youtube-tag-generator",
+                "title": "YouTube Tag Generator",
+                "description": "Generate optimized YouTube tags / keywords to help your video rank higher in search results."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "twitter-threads-creation",
+                "title": "Twitter Threads Creation",
+                "description": "Generate long and engaging Twitter threads with ease on any topic of your choice."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "twitter-post-ideas",
+                "title": "Twitter Post Ideas",
+                "description": "Get inspired with ideas for tweets that will captivate and engage your followers."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "linkedin-profile-posts",
+                "title": "LinkedIn Profile Posts",
+                "description": "Create attention-grabbing and professional posts for your LinkedIn profile."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "quora-answer-writing",
+                "title": "Quora Answer Writing",
+                "description": "Generate informative and creative answers for questions on Quora."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#fdb528",
+                "alt_name": "personal-bio-writing",
+                "title": "Personal Bio Writing",
+                "description": "Write unique and engaging bios for your personal social media profiles."
+            }
+        ]
+    },
+    {
+        "title": "Maketing",
+        "tools": [
+            {
+                "icon_name": "fluent-mdl2:product-release",
+                "icon_color": "#0dcaf0",
+                "alt_name": "create-product-descriptions",
+                "title": "Create Product Descriptions",
+                "description": "Craft unique, compelling descriptions to highlight product value and entice customers."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "craft-unique-value-proposition",
+                "title": "Craft Unique Value Proposition",
+                "description": "Write a concise statement defining your product and why it's needed."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "turn-features-into-benefits",
+                "title": "Turn Features into Benefits",
+                "description": "Show customers the value of your product by turning features into tangible benefits."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "generate-startup-names",
+                "title": "Generate Startup Names",
+                "description": "Discover cool, memorable names to make your startup stand out."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "define-company-mission",
+                "title": "Define Company Mission",
+                "description": "Create a clear mission statement to articulate your company's purpose and goals."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "write-vision-statement",
+                "title": "Write Vision Statement",
+                "description": "Create an inspiring vision statement outlining where your company is headed."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "write-press-releases",
+                "title": "Write Press Releases",
+                "description": "Generate impactful press releases to grab media attention and get your story out."
+            },
+
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "write-video-intros",
+                "title": "Write Video Intros",
+                "description": "Create engaging intros that capture the essence of your content and hook your audience."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "organize-video-scripts",
+                "title": "Organize Video Scripts",
+                "description": "Create structured outlines to break down video content into manageable sections."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "generate-video-content",
+                "title": "Video Script Section",
+                "description": "Write engaging, informative content for specific sections of your video script."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "write-newsletters",
+                "title": "Write Newsletters",
+                "description": "Generate newsletters that are informative and engaging for your subscribers."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "write-cold-emails",
+                "title": "Write Cold Emails",
+                "description": "Reach out to potential leads with a well-crafted email introducing your company."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "cancellation-email",
+                "title": "Cancellation Email",
+                "description": "Write emails to re-engage customers and bring them back to your business."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "write-welcome-emails",
+                "title": "Create Welcome Emails",
+                "description": "Generate warm, welcoming emails for new subscribers, customers, or users."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "cancellation-email",
+                "title": "Cancellation Email",
+                "description": "Write emails to re-engage customers and bring them back to your business."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "generate-confirmation-emails",
+                "title": "Generate Confirmation Emails",
+                "description": "Write emails to acknowledge and follow-up on specific actions or events."
+            },
+            {
+                "icon_name": "material-symbols:article-outline",
+                "icon_color": "#0dcaf0",
+                "alt_name": "write-email-subject-lines",
+                "title": "Write Email Subject Lines",
+                "description": "Generate catchy, concise subject lines to grab the attention of your audience."
+            }
+        ]
+    }
+]
